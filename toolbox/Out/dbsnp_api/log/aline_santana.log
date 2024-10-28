@@ -1,0 +1,222 @@
+#busca no arquivo aline_santana.txt feita em Mon Oct 14 13:49:54 2024
+buscando linha 0 de 412 do
+
+busca: chr1 : 1265460 CC
+A busca encontrou 1 resultado
+rs966021893
+12654603
+C/T
+
+encontrado
+.
+##########################
+buscando linha 1 de 412 do
+
+busca: chr1 : 11854457 AA
+A busca encontrou 2 resultados
+rs191183052	rs754015864
+118544572	11854457
+A/C	A/G,
+
+encontrado
+rs754015864
+##########################
+buscando linha 2 de 412 do
+
+busca: chr1 : 11854476 TG
+A busca encontrou 5 resultados
+rs1358392688	rs1040878649	rs897879134	rs1170756535	rs1801131
+118544763	118544757	118544761	118544765	11854475
+G/A	G/C,	G/A,	T/G,	T/A, T/C, T/G,
+
+encontrado
+rs1801131
+##########################
+buscando linha 3 de 412 do
+
+busca: chr1 : 11856378 GG
+A busca encontrou 1 resultado
+rs1801133
+11856377
+G/A
+
+encontrado
+rs1801133
+##########################
+buscando linha 4 de 412 do
+
+busca: chr1 : 21786068 CC
+A busca encontrou 2 resultados
+rs4654748	rs1466236278
+21786067	21786068
+C/T	C/T,
+
+encontrado
+rs1466236278
+##########################
+buscando linha 5 de 412 do
+
+busca: chr1 : 21890386 GA
+A busca encontrou 2 resultados
+rs1256335	rs1263567277
+21890385	218903864
+G/A	G/A, G/T,
+
+encontrado
+rs1256335
+##########################
+buscando linha 6 de 412 do
+
+busca: chr1 : 22485871 TG
+A busca encontrou 2 resultados
+rs1205012698	rs16826658
+224858703	22485870
+G/A	T/G,
+
+encontrado
+rs16826658
+##########################
+buscando linha 7 de 412 do
+
+busca: chr1 : 54194992 TC
+A busca encontrou 1 resultado
+rs702491
+54194991
+T/A, T/C
+
+encontrado
+rs702491
+##########################
+buscando linha 8 de 412 do
+
+busca: chr1 : 54195018 AG
+A busca encontrou 1 resultado
+rs702490
+54195017
+A/G
+
+encontrado
+rs702490
+##########################
+buscando linha 9 de 412 do
+
+busca: chr1 : 55495995 CC
+A busca encontrou 0 resultados
+
+
+
+
+encontrado
+.
+##########################
+buscando linha 10 de 412 do
+
+busca: chr1 : 55496039 TT
+A busca encontrou 1 resultado
+rs11206510
+55496038
+T/A, T/C, T/G
+
+encontrado
+rs11206510
+##########################
+buscando linha 11 de 412 do
+
+busca: chr1 : 61417729 GG
+A busca encontrou 1 resultado
+rs1572312
+61417728
+G/T
+
+encontrado
+rs1572312
+##########################
+buscando linha 12 de 412 do
+
+busca: chr1 : 63118196 AA
+A busca encontrou 1 resultado
+rs10889353
+63118195
+A/C, A/T
+
+encontrado
+rs10889353
+##########################
+buscando linha 13 de 412 do
+
+busca: chr1 : 65946121 GA
+A busca encontrou 1 resultado
+rs2025804
+65946120
+G/A
+
+encontrado
+rs2025804
+##########################
+buscando linha 14 de 412 do
+
+busca: chr1 : 66058513 AG
+A busca encontrou 1 resultado
+rs1137101
+66058512
+A/G
+
+encontrado
+rs1137101
+##########################
+buscando linha 15 de 412 do
+
+busca: chr1 : 66063117 GT
+A busca encontrou 1 resultado
+rs12405556
+66063116
+G/T
+
+encontrado
+rs12405556
+##########################
+buscando linha 16 de 412 do
+
+busca: chr1 : 66075952 GG
+A busca encontrou 2 resultados
+rs867390691	rs1805094
+66075952	66075951
+G/A	G/C, G/T,
+
+encontrado
+rs1805094
+##########################
+buscando linha 17 de 412 do
+
+busca: chr1 : 67694202 GG
+A busca encontrou 0 resultados
+
+
+
+
+encontrado
+.
+##########################
+buscando linha 18 de 412 do
+
+busca: chr1 : 77726241 CC
+A busca encontrou 2 resultados
+rs10493596	rs889159491
+77726240	77726241
+C/T	C/A, C/G,
+
+encontrado
+rs889159491
+##########################
+buscando linha 19 de 412 do
+
+busca: chr1 : 91191582 AA
+A busca encontrou 1 resultado
+rs72720396
+91191581
+A/G
+
+encontrado
+rs72720396
+##########################
+nao foram encontrados 3 o que significa 0.73% das linhas

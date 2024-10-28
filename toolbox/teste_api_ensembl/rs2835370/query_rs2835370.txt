@@ -1,0 +1,650 @@
+<html><title>EnsEMBL::REST</title><body><pre>--- 
+MAF: &#39;0.316327&#39;
+ambiguity: B
+evidence: 
+  - Frequency
+  - 1000Genomes
+  - TOPMed
+  - gnomAD
+mappings: 
+  - 
+    allele_string: C/G/T
+    ancestral_allele: C
+    assembly_name: GRCh38
+    coord_system: chromosome
+    end: 36513327
+    location: 21:36513327-36513327
+    seq_region_name: 21
+    start: 36513327
+    strand: 1
+minor_allele: C
+most_severe_consequence: intron_variant
+name: rs2835370
+populations: 
+  - 
+    allele: C
+    allele_count: 5259
+    frequency: &#39;0.07732&#39;
+    population: gnomADg:nfe
+  - 
+    allele: T
+    allele_count: 62761
+    frequency: &#39;0.9227&#39;
+    population: gnomADg:nfe
+  - 
+    allele: T
+    allele_count: 3197
+    frequency: &#39;0.9208&#39;
+    population: gnomADg:asj
+  - 
+    allele: C
+    allele_count: 275
+    frequency: &#39;0.07921&#39;
+    population: gnomADg:asj
+  - 
+    allele: T
+    allele_count: 10794
+    frequency: &#39;0.7061&#39;
+    population: gnomADg:amr
+  - 
+    allele: C
+    allele_count: 4492
+    frequency: &#39;0.2939&#39;
+    population: gnomADg:amr
+  - 
+    allele: C
+    allele_count: 926
+    frequency: &#39;0.192&#39;
+    population: gnomADg:sas
+  - 
+    allele: T
+    allele_count: 3898
+    frequency: &#39;0.808&#39;
+    population: gnomADg:sas
+  - 
+    allele: C
+    allele_count: 32289
+    frequency: &#39;0.2123&#39;
+    population: gnomADg:ALL
+  - 
+    allele: T
+    allele_count: 119827
+    frequency: &#39;0.7877&#39;
+    population: gnomADg:ALL
+  - 
+    allele: C
+    allele_count: 413
+    frequency: &#39;0.1955&#39;
+    population: gnomADg:remaining
+  - 
+    allele: T
+    allele_count: 1699
+    frequency: &#39;0.8045&#39;
+    population: gnomADg:remaining
+  - 
+    allele: C
+    allele_count: 16649
+    frequency: &#39;0.4018&#39;
+    population: gnomADg:afr
+  - 
+    allele: T
+    allele_count: 24789
+    frequency: &#39;0.5982&#39;
+    population: gnomADg:afr
+  - 
+    allele: C
+    allele_count: 1918
+    frequency: &#39;0.1811&#39;
+    population: gnomADg:fin
+  - 
+    allele: T
+    allele_count: 8674
+    frequency: &#39;0.8189&#39;
+    population: gnomADg:fin
+  - 
+    allele: T
+    allele_count: 867
+    frequency: &#39;0.9507&#39;
+    population: gnomADg:ami
+  - 
+    allele: C
+    allele_count: 45
+    frequency: &#39;0.04934&#39;
+    population: gnomADg:ami
+  - 
+    allele: C
+    allele_count: 26
+    frequency: &#39;0.08844&#39;
+    population: gnomADg:mid
+  - 
+    allele: T
+    allele_count: 268
+    frequency: &#39;0.9116&#39;
+    population: gnomADg:mid
+  - 
+    allele: T
+    allele_count: 2880
+    frequency: &#39;0.5575&#39;
+    population: gnomADg:eas
+  - 
+    allele: C
+    allele_count: 2286
+    frequency: &#39;0.4425&#39;
+    population: gnomADg:eas
+  - 
+    allele: T
+    allele_count: 686
+    frequency: &#39;0.8128&#39;
+    population: ALFA:SAMN10492699
+  - 
+    allele: C
+    allele_count: 158
+    frequency: &#39;0.1872&#39;
+    population: ALFA:SAMN10492699
+  - 
+    allele: T
+    allele_count: 159046
+    frequency: &#39;0.9239&#39;
+    population: ALFA:SAMN10492695
+  - 
+    allele: C
+    allele_count: 13102
+    frequency: &#39;0.07611&#39;
+    population: ALFA:SAMN10492695
+  - 
+    allele: C
+    allele_count: 2898
+    frequency: &#39;0.4097&#39;
+    population: ALFA:SAMN10492703
+  - 
+    allele: T
+    allele_count: 4176
+    frequency: &#39;0.5903&#39;
+    population: ALFA:SAMN10492703
+  - 
+    allele: C
+    allele_count: 900
+    frequency: &#39;0.1783&#39;
+    population: ALFA:SAMN10492702
+  - 
+    allele: T
+    allele_count: 4148
+    frequency: &#39;0.8217&#39;
+    population: ALFA:SAMN10492702
+  - 
+    allele: T
+    allele_count: 329
+    frequency: &#39;0.5576&#39;
+    population: ALFA:SAMN10492697
+  - 
+    allele: C
+    allele_count: 261
+    frequency: &#39;0.4424&#39;
+    population: ALFA:SAMN10492697
+  - 
+    allele: T
+    allele_count: 5699
+    frequency: &#39;0.8317&#39;
+    population: ALFA:SAMN11605645
+  - 
+    allele: C
+    allele_count: 1153
+    frequency: &#39;0.1683&#39;
+    population: ALFA:SAMN11605645
+  - 
+    allele: T
+    allele_count: 117
+    frequency: &#39;0.4875&#39;
+    population: ALFA:SAMN10492696
+  - 
+    allele: C
+    allele_count: 123
+    frequency: &#39;0.5125&#39;
+    population: ALFA:SAMN10492696
+  - 
+    allele: T
+    allele_count: 4099
+    frequency: &#39;0.5937&#39;
+    population: ALFA:SAMN10492700
+  - 
+    allele: C
+    allele_count: 2805
+    frequency: &#39;0.4063&#39;
+    population: ALFA:SAMN10492700
+  - 
+    allele: T
+    allele_count: 4059
+    frequency: &#39;0.5939&#39;
+    population: ALFA:SAMN10492698
+  - 
+    allele: C
+    allele_count: 2775
+    frequency: &#39;0.4061&#39;
+    population: ALFA:SAMN10492698
+  - 
+    allele: C
+    allele_count: 312
+    frequency: &#39;0.4239&#39;
+    population: ALFA:SAMN10492704
+  - 
+    allele: T
+    allele_count: 424
+    frequency: &#39;0.5761&#39;
+    population: ALFA:SAMN10492704
+  - 
+    allele: T
+    allele_count: 178278
+    frequency: &#39;0.8931&#39;
+    population: ALFA:SAMN10492705
+  - 
+    allele: C
+    allele_count: 21328
+    frequency: &#39;0.1069&#39;
+    population: ALFA:SAMN10492705
+  - 
+    allele: C
+    allele_count: 51
+    frequency: &#39;0.3493&#39;
+    population: ALFA:SAMN10492701
+  - 
+    allele: T
+    allele_count: 95
+    frequency: &#39;0.6507&#39;
+    population: ALFA:SAMN10492701
+  - 
+    allele: C
+    allele_count: 6221
+    frequency: &#39;0.4098&#39;
+    population: GEM-J
+  - 
+    allele: T
+    allele_count: 8961
+    frequency: &#39;0.5902&#39;
+    population: GEM-J
+  - 
+    allele: C
+    frequency: &#39;0.213605377&#39;
+    population: TOPMed
+  - 
+    allele: T
+    frequency: &#39;0.772282747&#39;
+    population: TOPMed
+  - 
+    allele: G
+    frequency: &#39;0.014111876&#39;
+    population: TOPMed
+  - 
+    allele: C
+    allele_count: 95
+    frequency: &#39;0.494791666666667&#39;
+    population: 1000GENOMES:phase_3:ACB
+  - 
+    allele: T
+    allele_count: 97
+    frequency: &#39;0.505208333333333&#39;
+    population: 1000GENOMES:phase_3:ACB
+  - 
+    allele: C
+    allele_count: 625
+    frequency: &#39;0.472768532526475&#39;
+    population: 1000GENOMES:phase_3:AFR
+  - 
+    allele: T
+    allele_count: 697
+    frequency: &#39;0.527231467473525&#39;
+    population: 1000GENOMES:phase_3:AFR
+  - 
+    allele: T
+    allele_count: 3424
+    frequency: &#39;0.68370607028754&#39;
+    population: 1000GENOMES:phase_3:ALL
+  - 
+    allele: C
+    allele_count: 1584
+    frequency: &#39;0.31629392971246&#39;
+    population: 1000GENOMES:phase_3:ALL
+  - 
+    allele: T
+    allele_count: 453
+    frequency: &#39;0.652737752161383&#39;
+    population: 1000GENOMES:phase_3:AMR
+  - 
+    allele: C
+    allele_count: 241
+    frequency: &#39;0.347262247838617&#39;
+    population: 1000GENOMES:phase_3:AMR
+  - 
+    allele: C
+    allele_count: 45
+    frequency: &#39;0.368852459016393&#39;
+    population: 1000GENOMES:phase_3:ASW
+  - 
+    allele: T
+    allele_count: 77
+    frequency: &#39;0.631147540983607&#39;
+    population: 1000GENOMES:phase_3:ASW
+  - 
+    allele: C
+    allele_count: 38
+    frequency: &#39;0.22093023255814&#39;
+    population: 1000GENOMES:phase_3:BEB
+  - 
+    allele: T
+    allele_count: 134
+    frequency: &#39;0.779069767441861&#39;
+    population: 1000GENOMES:phase_3:BEB
+  - 
+    allele: T
+    allele_count: 106
+    frequency: &#39;0.56989247311828&#39;
+    population: 1000GENOMES:phase_3:CDX
+  - 
+    allele: C
+    allele_count: 80
+    frequency: &#39;0.43010752688172&#39;
+    population: 1000GENOMES:phase_3:CDX
+  - 
+    allele: C
+    allele_count: 10
+    frequency: &#39;0.0505050505050505&#39;
+    population: 1000GENOMES:phase_3:CEU
+  - 
+    allele: T
+    allele_count: 188
+    frequency: &#39;0.94949494949495&#39;
+    population: 1000GENOMES:phase_3:CEU
+  - 
+    allele: T
+    allele_count: 119
+    frequency: &#39;0.577669902912621&#39;
+    population: 1000GENOMES:phase_3:CHB
+  - 
+    allele: C
+    allele_count: 87
+    frequency: &#39;0.422330097087379&#39;
+    population: 1000GENOMES:phase_3:CHB
+  - 
+    allele: T
+    allele_count: 113
+    frequency: &#39;0.538095238095238&#39;
+    population: 1000GENOMES:phase_3:CHS
+  - 
+    allele: C
+    allele_count: 97
+    frequency: &#39;0.461904761904762&#39;
+    population: 1000GENOMES:phase_3:CHS
+  - 
+    allele: C
+    allele_count: 55
+    frequency: &#39;0.292553191489362&#39;
+    population: 1000GENOMES:phase_3:CLM
+  - 
+    allele: T
+    allele_count: 133
+    frequency: &#39;0.707446808510638&#39;
+    population: 1000GENOMES:phase_3:CLM
+  - 
+    allele: C
+    allele_count: 416
+    frequency: &#39;0.412698412698413&#39;
+    population: 1000GENOMES:phase_3:EAS
+  - 
+    allele: T
+    allele_count: 592
+    frequency: &#39;0.587301587301587&#39;
+    population: 1000GENOMES:phase_3:EAS
+  - 
+    allele: T
+    allele_count: 115
+    frequency: &#39;0.580808080808081&#39;
+    population: 1000GENOMES:phase_3:ESN
+  - 
+    allele: C
+    allele_count: 83
+    frequency: &#39;0.419191919191919&#39;
+    population: 1000GENOMES:phase_3:ESN
+  - 
+    allele: T
+    allele_count: 915
+    frequency: &#39;0.909542743538767&#39;
+    population: 1000GENOMES:phase_3:EUR
+  - 
+    allele: C
+    allele_count: 91
+    frequency: &#39;0.0904572564612326&#39;
+    population: 1000GENOMES:phase_3:EUR
+  - 
+    allele: T
+    allele_count: 164
+    frequency: &#39;0.828282828282828&#39;
+    population: 1000GENOMES:phase_3:FIN
+  - 
+    allele: C
+    allele_count: 34
+    frequency: &#39;0.171717171717172&#39;
+    population: 1000GENOMES:phase_3:FIN
+  - 
+    allele: T
+    allele_count: 165
+    frequency: &#39;0.906593406593407&#39;
+    population: 1000GENOMES:phase_3:GBR
+  - 
+    allele: C
+    allele_count: 17
+    frequency: &#39;0.0934065934065934&#39;
+    population: 1000GENOMES:phase_3:GBR
+  - 
+    allele: C
+    allele_count: 50
+    frequency: &#39;0.242718446601942&#39;
+    population: 1000GENOMES:phase_3:GIH
+  - 
+    allele: T
+    allele_count: 156
+    frequency: &#39;0.757281553398058&#39;
+    population: 1000GENOMES:phase_3:GIH
+  - 
+    allele: T
+    allele_count: 104
+    frequency: &#39;0.460176991150442&#39;
+    population: 1000GENOMES:phase_3:GWD
+  - 
+    allele: C
+    allele_count: 122
+    frequency: &#39;0.539823008849557&#39;
+    population: 1000GENOMES:phase_3:GWD
+  - 
+    allele: T
+    allele_count: 202
+    frequency: &#39;0.94392523364486&#39;
+    population: 1000GENOMES:phase_3:IBS
+  - 
+    allele: C
+    allele_count: 12
+    frequency: &#39;0.0560747663551402&#39;
+    population: 1000GENOMES:phase_3:IBS
+  - 
+    allele: C
+    allele_count: 50
+    frequency: &#39;0.245098039215686&#39;
+    population: 1000GENOMES:phase_3:ITU
+  - 
+    allele: T
+    allele_count: 154
+    frequency: &#39;0.754901960784314&#39;
+    population: 1000GENOMES:phase_3:ITU
+  - 
+    allele: T
+    allele_count: 132
+    frequency: &#39;0.634615384615385&#39;
+    population: 1000GENOMES:phase_3:JPT
+  - 
+    allele: C
+    allele_count: 76
+    frequency: &#39;0.365384615384615&#39;
+    population: 1000GENOMES:phase_3:JPT
+  - 
+    allele: C
+    allele_count: 76
+    frequency: &#39;0.383838383838384&#39;
+    population: 1000GENOMES:phase_3:KHV
+  - 
+    allele: T
+    allele_count: 122
+    frequency: &#39;0.616161616161616&#39;
+    population: 1000GENOMES:phase_3:KHV
+  - 
+    allele: T
+    allele_count: 97
+    frequency: &#39;0.48989898989899&#39;
+    population: 1000GENOMES:phase_3:LWK
+  - 
+    allele: C
+    allele_count: 101
+    frequency: &#39;0.51010101010101&#39;
+    population: 1000GENOMES:phase_3:LWK
+  - 
+    allele: C
+    allele_count: 75
+    frequency: &#39;0.441176470588235&#39;
+    population: 1000GENOMES:phase_3:MSL
+  - 
+    allele: T
+    allele_count: 95
+    frequency: &#39;0.558823529411765&#39;
+    population: 1000GENOMES:phase_3:MSL
+  - 
+    allele: C
+    allele_count: 56
+    frequency: &#39;0.4375&#39;
+    population: 1000GENOMES:phase_3:MXL
+  - 
+    allele: T
+    allele_count: 72
+    frequency: &#39;0.5625&#39;
+    population: 1000GENOMES:phase_3:MXL
+  - 
+    allele: T
+    allele_count: 73
+    frequency: &#39;0.429411764705882&#39;
+    population: 1000GENOMES:phase_3:PEL
+  - 
+    allele: C
+    allele_count: 97
+    frequency: &#39;0.570588235294118&#39;
+    population: 1000GENOMES:phase_3:PEL
+  - 
+    allele: C
+    allele_count: 31
+    frequency: &#39;0.161458333333333&#39;
+    population: 1000GENOMES:phase_3:PJL
+  - 
+    allele: T
+    allele_count: 161
+    frequency: &#39;0.838541666666667&#39;
+    population: 1000GENOMES:phase_3:PJL
+  - 
+    allele: C
+    allele_count: 33
+    frequency: &#39;0.158653846153846&#39;
+    population: 1000GENOMES:phase_3:PUR
+  - 
+    allele: T
+    allele_count: 175
+    frequency: &#39;0.841346153846154&#39;
+    population: 1000GENOMES:phase_3:PUR
+  - 
+    allele: C
+    allele_count: 211
+    frequency: &#39;0.215746421267894&#39;
+    population: 1000GENOMES:phase_3:SAS
+  - 
+    allele: T
+    allele_count: 767
+    frequency: &#39;0.784253578732106&#39;
+    population: 1000GENOMES:phase_3:SAS
+  - 
+    allele: T
+    allele_count: 162
+    frequency: &#39;0.794117647058823&#39;
+    population: 1000GENOMES:phase_3:STU
+  - 
+    allele: C
+    allele_count: 42
+    frequency: &#39;0.205882352941176&#39;
+    population: 1000GENOMES:phase_3:STU
+  - 
+    allele: C
+    allele_count: 18
+    frequency: &#39;0.0841121495327103&#39;
+    population: 1000GENOMES:phase_3:TSI
+  - 
+    allele: T
+    allele_count: 196
+    frequency: &#39;0.91588785046729&#39;
+    population: 1000GENOMES:phase_3:TSI
+  - 
+    allele: T
+    allele_count: 112
+    frequency: &#39;0.518518518518518&#39;
+    population: 1000GENOMES:phase_3:YRI
+  - 
+    allele: C
+    allele_count: 104
+    frequency: &#39;0.481481481481481&#39;
+    population: 1000GENOMES:phase_3:YRI
+  - 
+    allele: C
+    allele_count: 101
+    frequency: &#39;0.548913043478261&#39;
+    population: GGVP:GWF
+  - 
+    allele: T
+    allele_count: 83
+    frequency: &#39;0.451086956521739&#39;
+    population: GGVP:GWF
+  - 
+    allele: T
+    allele_count: 204
+    frequency: &#39;0.470046082949309&#39;
+    population: GGVP:GWD
+  - 
+    allele: C
+    allele_count: 230
+    frequency: &#39;0.529953917050691&#39;
+    population: GGVP:GWD
+  - 
+    allele: T
+    allele_count: 88
+    frequency: &#39;0.448979591836735&#39;
+    population: GGVP:GWW
+  - 
+    allele: C
+    allele_count: 108
+    frequency: &#39;0.551020408163265&#39;
+    population: GGVP:GWW
+  - 
+    allele: C
+    allele_count: 89
+    frequency: &#39;0.454081632653061&#39;
+    population: GGVP:GWJ
+  - 
+    allele: T
+    allele_count: 107
+    frequency: &#39;0.545918367346939&#39;
+    population: GGVP:GWJ
+  - 
+    allele: C
+    allele_count: 528
+    frequency: &#39;0.522772277227723&#39;
+    population: GGVP:ALL
+  - 
+    allele: T
+    allele_count: 482
+    frequency: &#39;0.477227722772277&#39;
+    population: GGVP:ALL
+source: Variants (including SNPs and indels) imported from dbSNP
+synonyms: 
+  - rs56761502
+var_class: SNP
+</pre></body></html>

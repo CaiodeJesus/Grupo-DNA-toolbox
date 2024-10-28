@@ -1,0 +1,35 @@
+#busca no arquivo andressa_amaral.txt feita em Thu May  9 17:08:05 2024
+buscando linha 0 de 407 do
+
+busca: chr1 : 1265460 CC
+A busca encontrou 1 resultado
+rs966021893
+12654603
+C/T
+
+encontrado
+.
+##########################
+buscando linha 1 de 407 do
+
+busca: chr1 : 1265505 GA
+A busca encontrou 7 resultados
+rs35946613	rs780337043	rs909095590	rs978303391	rs1227307545	rs372695744	rs991587577
+1265504	12655044	12655053	1265504	12655055	12655056	12655051
+G/A	G/A,	G/A,	GTGTG/GTG,	G/T,	AA/AAAA,	A/G,
+
+encontrado
+rs978303391
+##########################
+buscando linha 2 de 407 do
+
+busca: chr1 : 11854457 AA
+A busca encontrou 2 resultados
+rs191183052	rs754015864
+118544572	11854457
+A/C	A/G,
+
+encontrado
+rs754015864
+##########################
+nao foram encontrados 1 o que significa 0.25% das linhas
