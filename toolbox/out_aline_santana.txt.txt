@@ -1,5 +1,0 @@
-rsid de busca	rsid da query	chromossomo	posição	nucleotideo	gene
-rs35318931	38009120	G/A
-rs3761549	49117344	G/A
-rs12688220	106244766	C/T
-rs980190227	106244768	C/G,
